@@ -1,0 +1,25 @@
+@import '~antd/dist/antd.css';
+
+.app {
+  height:100vh;
+}
+
+.app-header {
+  color: #fff;
+}
+.app-title {
+  float: left;
+  width: 150px;
+  height: 100%;
+  font-size: 20px;
+  font-weight: 600;
+}
+.app-content {
+  background-color: #fff;
+  padding: 16px;
+}
+
+.app-foot {
+  
+}
+

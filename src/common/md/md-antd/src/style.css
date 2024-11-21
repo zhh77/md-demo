@@ -1,0 +1,30 @@
+.md-form-group > span {
+  font-size: 10px;
+  /* font-weight: 400; */
+}
+
+.md-field-error.md-field-message {
+  color: #ff4d4f;
+  /* padding: 2px; */
+  margin-bottom: -24px;
+}
+.md-operations {
+  display: flex;
+  justify-content: center;
+}
+.md-form .ant-form-item {
+  margin-bottom: 0;
+  padding-bottom: 24px;
+}
+
+.md-form-search {
+  display: flex;
+  padding: 8px 0;
+}
+.md-form-search .ant-form-item {
+  min-width: 270px;
+  display: block;
+  flex: 0 0 25%;
+  max-width: 25%;
+  padding-bottom: 0;
+}
